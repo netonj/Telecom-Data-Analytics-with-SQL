@@ -1,4 +1,4 @@
-# Excelsior Mobile Database
+# Excelsior Mobile Customer Database Analysis
 
 > This project analyzes a customer database to inform marketing efforts. 
 
